@@ -44,7 +44,8 @@
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true,
-                "url": "https://twitter.com/softnhardwhere"
+                "url": "https://twitter.com/softnhardwhere",
+                "no_follow": true
             },
             {
                 "label": "Instagram",
