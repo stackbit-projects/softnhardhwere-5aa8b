@@ -43,7 +43,8 @@
                 "label": "Twitter",
                 "style": "icon",
                 "icon_class": "twitter",
-                "new_window": true
+                "new_window": true,
+                "url": "https://twitter.com/softnhardwhere"
             },
             {
                 "label": "Instagram",
